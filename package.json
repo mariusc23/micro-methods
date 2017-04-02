@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Method validation middleware for micro.",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "peerDependencies": {
     "micro": "^7.3.0"
   },
