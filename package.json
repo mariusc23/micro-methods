@@ -1,6 +1,6 @@
 {
   "name": "@mariusc23/micro-methods",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Method validation middleware for micro.",
   "main": "index.js",
   "files": [
